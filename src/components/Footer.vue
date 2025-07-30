@@ -2,7 +2,7 @@
   <footer class="footer text-center py-4 mt-auto bg-dark text-white">
     <div class="container">
       <img src="/images/logo.jpg" alt="Logo" class="footer-logo mb-2" />
-      <p class="mb-1 fw-semibold">Casa De Alquiler Y Venta</p>
+      <p class="mb-1 fw-semibold">Elegancia a tu medida y estilo para cada ocacion</p>
       <small class="text-light">© {{ year }} Todos los derechos reservados</small>
     </div>
   </footer>
