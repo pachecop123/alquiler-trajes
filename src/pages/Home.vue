@@ -139,7 +139,8 @@ const testimonios = [
 }
 
 /* CTA final */
-.cta-final {
-  background: linear-gradient(135deg, #5a189a, #9d4edd);
-}
+/* .cta-final {
+  background: linear-gradient(135deg, #1a1f2b, #2c3e50);
+} */
+
 </style>
